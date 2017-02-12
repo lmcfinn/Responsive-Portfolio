@@ -1,0 +1,174 @@
+.container {
+	width: 100%;
+	height: 100%;
+	color:#777777;
+}
+
+.top {
+	background: #ffffff;
+	width: 100%;
+	height: 80px;
+}
+
+#header {
+	float: left;
+	width: 219px;
+	height: 52px;
+	margin-left: 139px;
+	padding-top: 28px;
+	padding-bottom: 0px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	text-align: center;
+	font-size: 26px;
+}
+
+#nav-link {
+	height: 80px;
+	width: 300px;
+	margin-left: 820px;
+	padding-top: 30px;
+
+}
+
+li {
+	display: inline;
+}
+
+
+a:link {
+	color: #777777;
+	display: inline;
+	text-decoration: none;
+	font-size: 20px;
+	margin-right: 15px;
+
+}
+
+a:hover {
+	color: #660066;
+}
+
+
+#about {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #eee;
+	padding-right: 20px;
+}
+
+#portfolio {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #eee;
+	padding-right: 20px;
+}
+
+#contact {
+	border-right-width: ;
+	border-right-style: ;
+	border-right-color: ;
+	padding-right: ;
+}
+
+.main {
+	width: 100%;
+	height: 639px;
+	background: url("https://images.blogthings.com/whatpatternisyourbrainquiz/pattern-6.jpg");
+	border-top-style: solid;
+	border-top-color: #cccccc;
+	border-top-width: 3px;
+
+}
+
+.main-content {
+    float: left;
+    width: 38%;
+    height: 540px;
+	margin-left: 139px;
+	margin-top:40px;
+	background-color: #ffffff;
+	overflow: auto;
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+
+.main-header {
+	width:100%;
+	height:40px;
+	font-size: 23px;
+	color: #4aaaa5;
+	padding-top: 28px;
+	margin-bottom: 20px;
+	border-bottom-color: #cccccc;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+
+}
+
+#bio-pic {
+	width: 210px;
+	height: 250px;
+	float: left;
+	margin-right: 17px;
+}
+
+#bio-copy {
+
+}
+
+.contact-content {
+	float:left;
+	width: 220px;
+	height: 180px;
+	margin-left: 80px;
+	margin-top: 40px;
+	background-color: #ffffff;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.contact-header {
+	width:100%;
+	height:40px;
+	font-size: 23px;
+	color: #4aaaa5;
+	text-align: center;
+	padding-top: 28px;
+	margin-bottom: 20px;
+	border-bottom-color: #cccccc;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+}
+
+.icon-wrapper {
+	margin-left: 27px;
+	width: 100%;
+	height: 90px;
+}
+
+.social-icon {
+    float: left;
+    width: 42px;
+    height: 42px;
+    margin-top: 10px;
+    margin-right: 16px;
+}
+
+.footer {
+	clear: both;
+	width: 100%;
+	height: 80px;
+	background-color: #666666;
+	text-align: center;
+	padding-top: 30px;
+	color: #eee;
+	border-top-color: #4aaaa5;
+	border-top-style: solid;
+	border-top-width: 8px;
+
+}
+
+
+
