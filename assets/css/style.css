@@ -329,7 +329,7 @@ a:hover {
 		margin-left: 20px;
 }
 
-    .contact-content {
+  .contact-content {
 	
 		width: 81%;
 		margin-left: 50px;
@@ -345,23 +345,163 @@ a:hover {
 		margin-right: 10px;
 		text-align: left;	
 }
-
-
-
    
    .footer {
    	height: 43px;
    }
 
 
-
-
-
-
 }
 
 @media screen and (max-width: 640px) {
-	
+
+	.top {
+		background: #ffffff;
+		width: 100%;
+		height: 102px;
+}
+
+	#header {
+		float: left;
+		width: 100%;
+		height: 45px;
+		margin-left: 0px;
+		padding-top: 20px;
+		
+}
+
+	#nav-link {
+		float:left;
+		height: 20px;
+		width: 565px;
+		margin-left: 0px;
+		padding-top: 10px; 
+		text-align: center;
+		padding-left: 60px
+}	
+
+
+	a:link {
+		color: #777777;
+		display: inline;
+		text-decoration: none;
+		font-size: 16px;
+		margin-right: 80px;
+
+}
+
+	a:hover {
+		color: #660066;
+}
+
+
+	#about {
+		border-right-width: 1px;
+		border-right-style: solid;
+		border-right-color: #eee;
+		padding-right: 50px;
+}
+
+	#portfolio {
+		border-right-width: 1px;
+		border-right-style: solid;
+		border-right-color: #eee;
+		padding-right: 50px;
+}
+
+	#contact {
+		border-right-width: ;
+		border-right-style: ;
+		border-right-color: ;
+		padding-right: ;
+}
+
+	.main {
+		width: 100%;
+		height: 820px;
+		background: url("https://images.blogthings.com/whatpatternisyourbrainquiz/pattern-6.jpg");
+		border-top-style: none;
+
+}
+
+	.main-content {
+    	float: left;
+    	width: 80%;
+    	height: 540px;
+		margin-left: 30px;
+		margin-top:40px;
+		background-color: #ffffff;
+		overflow: auto;
+		padding-left: 30px;
+		padding-right: 30px;
+
+}
+
+	.main-header {
+		width:100%;
+		height:40px;
+		font-size: 23px;
+		color: #4aaaa5;
+		padding-top: 28px;
+		margin-bottom: 20px;
+		border-bottom-color: #cccccc;
+		border-bottom-style: solid;
+		border-bottom-width: 3px;
+
+}
+
+	#bio-pic {
+		width: 100%;
+		height: 250px;
+		float: left;
+		margin-right: 17px;
+		margin-left: 10px;
+}
+
+	#bio-copy {
+
+}
+
+	.contact-content {
+		float:left;
+		width: 83%;
+		height: 160px;
+		margin-left: 30px;
+		margin-top: 25px;
+		background-color: #ffffff;
+		padding-left: 20px;
+		padding-right: 20px;
+}
+
+	.contact-header {
+		width:94%;
+		height:40px;
+		font-size: 23px;
+		color: #4aaaa5;
+		text-align: left;
+		padding-top: 28px;
+		margin-bottom: 20px;
+
+		border-bottom-color: #cccccc;
+		border-bottom-style: solid;
+		border-bottom-width: 3px;
+}
+
+	.icon-wrapper {
+		margin-left: 0px;
+		width: 100%;
+		height: 100px;
+}
+
+	.social-icon {
+    	float: left;
+    	width: 43px;
+    	height: 43px;
+    	margin-top: 3px;
+    	margin-right: 13px;
+}
+
+
 
 }
 
