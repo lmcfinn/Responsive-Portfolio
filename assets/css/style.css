@@ -120,6 +120,44 @@ a:hover {
 
 }
 
+.form {
+
+	color:#a6a6a6;
+	font-size:18px;
+	padding-left:0px;
+}
+
+.input-box {
+	width:500px;
+	margin-top:8px;
+	margin-bottom:10px;
+	color:#cccccc;
+	padding-left:0px;
+
+}
+
+#message-box {
+	width:500px;
+	height:160px;
+	margin-top:8px;
+	margin-bottom:10px;
+	color:#cccccc;
+	padding-left:0px;
+
+}
+
+#submit-button {
+	margin-top:15px;
+	background-color:#4aaaa5;
+	color:white;
+	height:35px;
+	width:140px;
+	font-size:19px;
+	padding-left:0px;
+}
+
+
+
 .contact-content {
 	float:left;
 	width: 220px;
@@ -212,7 +250,22 @@ a:hover {
 	 	padding-right: 15px;
 	 	padding-bottom: 15px;
 	 	width: 50%;
-	 	height: 560px;
+	 	height: 550px;
+}
+
+	.main-header {
+		width:95%;
+		height:40px;
+		font-size: 23px;
+		color: #4aaaa5;
+		padding-top: 28px;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-bottom: 20px;
+		border-bottom-color: #cccccc;
+		border-bottom-style: solid;
+		border-bottom-width: 3px;
+
 }
 
 
@@ -227,6 +280,45 @@ a:hover {
 	#bio-copy {
 		margin-left: 20px;
 }
+
+	.form {
+
+		color:#a6a6a6;
+		font-size:18px;
+		padding-left:10px;
+}
+
+	.input-box {
+		width:92%;
+		margin-top:8px;
+		margin-bottom:10px;
+		color:#cccccc;
+		padding-left:0px;
+
+}
+
+	#message-box {
+		width:92%;
+		height:160px;
+		margin-top:8px;
+		margin-bottom:10px;
+		color:#cccccc;
+		padding-left:0px;
+
+}
+
+	#submit-button {
+		margin-top:15px;
+		background-color:#4aaaa5;
+		color:white;
+		height:35px;
+		width:140px;
+		font-size:19px;
+		padding-left:0px;
+}
+
+
+
 
     .contact-content {
 	
@@ -438,11 +530,12 @@ a:hover {
 }
 
 	.main-header {
-		width:100%;
+		width:95%;
 		height:40px;
 		font-size: 23px;
 		color: #4aaaa5;
 		padding-top: 28px;
+		margin-left: 10px;
 		margin-bottom: 20px;
 		border-bottom-color: #cccccc;
 		border-bottom-style: solid;
