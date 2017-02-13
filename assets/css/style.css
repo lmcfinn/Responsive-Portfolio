@@ -184,7 +184,7 @@ a:hover {
 	}
 
 	#nav-link {
-	     margin-left: 520px; 
+	     margin-left: 550px; 
 }
 
     a:link {
@@ -201,6 +201,11 @@ a:hover {
 	    padding-right: 15px;
 }
 
+ 	.main {
+ 		height: 648.6px;
+ 	}
+
+ 	
     .main-content {
 	 	margin-left: 50px;
 	 	padding-left: 15px;
@@ -212,6 +217,7 @@ a:hover {
 
 
     #bio-pic {
+		float: left;
 		width: 90%;
 		height: 200px;
 		margin-bottom: 15px;
@@ -234,8 +240,10 @@ a:hover {
 }
 
 	.contact-header {
-		width: 80%;
-		margin-left: 20px;	
+		width: 79%;
+		margin-left: 21px;	
+	
+
 }
 
 
@@ -253,14 +261,102 @@ a:hover {
     	margin-top: 10px;
     	margin-right: 10px;
 }
-
-		
-	
+   
+   .footer {
+   	height: 43px;
+   }
 
 }
 
 @media screen and (max-width: 768px) {
+	.top {
+		height: 65px;
+}
+
+	#header {
+		margin-left: 53px;
+		height: 47px;
+		padding-top: 18px;
+
+	}
+
+	#nav-link {
+	     margin-left: 460px; 
+	     padding-top: 23px;
+}
+
+    a:link {
+	    font-size: 18px;
+	    margin-right: 12px;
+}
+
+
+    #about {
+	    padding-right: 15px;
+}
+
+    #portfolio {
+	    padding-right: 15px;
+}
+ 	.main {
+ 		height: 835px;
+ 	}
+
+ 	.main-header {
+	width: 95%;
+	margin-left: 16px;
+	margin-right: 30px;
+}
+
+    .main-content {
+	 	margin-left: 50px;
+	 	padding-left: 15px;
+	 	padding-right: 15px;
+	 	padding-bottom: 15px;
+	 	width: 80%;
+	 	height: 500px;
+}
+
+
+    #bio-pic {
+    	width: 210px;
+		height: 250px;
+		float: left;
+		margin-right: 17px;
+}
+
+	#bio-copy {
+		margin-left: 20px;
+}
+
+    .contact-content {
 	
+		width: 81%;
+		margin-left: 50px;
+		margin-top: 40px;
+	
+		padding-left: 10px;
+		padding-right: 10px;
+}
+
+	.contact-header {
+		width: 94%;
+		margin-left: 18px;
+		margin-right: 10px;
+		text-align: left;	
+}
+
+
+
+   
+   .footer {
+   	height: 43px;
+   }
+
+
+
+
+
 
 }
 
