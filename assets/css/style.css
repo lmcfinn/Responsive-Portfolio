@@ -1,6 +1,4 @@
 
-
-
 .container {
 	width: 100%;
 	height: 100%;
@@ -120,41 +118,41 @@ a:hover {
 
 }
 
+/* portfolio*/
+
+
 .work {
   position: relative;
-  width: 274px;
-  overflow: auto;
+  width: 40%;
+  height: 160px;
   float: left;
-  margin: 20px 0 25px;
+  margin-top: 15px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
 }
 
-.work:nth-child(even) {
-  margin-right: 40px;
-}
 
 .work img {
   width: 100%;
-  border: 0 none;
-  opacity: .8;
+  height: 160px;
 }
 
 .work h3 {
   position: absolute;
-  bottom: 20px;
-  margin-bottom: 0;
-  padding: 15px;
+  bottom: 30px;
   width: 100%;
+  height: 30px;
   color: #fff;
   text-align: center;
-  line-height: 30px;
-  font-weight: 300;
   background: #4aaaa5;
-  border-bottom: 0;
+  padding-top: 12px;
+
 }
 
 
 
-
+/*contact*/
 
 
 
@@ -322,6 +320,48 @@ a:hover {
 		margin-left: 20px;
 }
 
+
+	.work {
+  	position: relative;
+  	width: 55%;
+  	height: 160px;
+  	float: left;
+  	margin-top: 20px;
+  	margin-right: 35px;
+  	margin-bottom: 80px;
+  	margin-left: 65px;
+}
+
+
+	.work img {
+  	width: 100%;
+  	height: 160px;
+  	border-style: solid;
+  	border-color: #eee;
+  	border-top-width: 40px;
+  	border-right-width: 40px;
+  	border-bottom-width: 40px;
+  	border-left-width: 40px;
+}
+
+	.work h3 {
+  	position: absolute;
+  	bottom: -10px;
+  	width: 100%;
+  	height: 30px;
+  	color: #fff;
+  	text-align: center;
+  	background: #4aaaa5;
+  	padding-top: 12px;
+  	margin-left: 40px;
+
+}
+
+
+
+
+
+
 	.form {
 
 		color:#a6a6a6;
@@ -462,6 +502,47 @@ a:hover {
 		margin-left: 20px;
 }
 
+
+	.work {
+  	position: relative;
+  	width: 35%;
+  	height: 160px;
+  	float: left;
+  	margin-top: 10px;
+  	margin-right: 25px;
+  	margin-bottom: 30px;
+  	margin-left: 50px;
+}
+
+
+	.work img {
+  	width: 100%;
+  	height: 160px;
+  	border-style: solid;
+  	border-color: #eee;
+  	border-top-width: 0px;
+  	border-right-width: 0px;
+  	border-bottom-width: 0px;
+  	border-left-width: 0px;
+}
+
+	.work h3 {
+  	position: absolute;
+  	bottom: 10px;
+  	width: 100%;
+  	height: 30px;
+  	color: #fff;
+  	text-align: center;
+  	background: #4aaaa5;
+  	padding-top: 12px;
+  	margin-left: 0px;
+
+}
+
+
+	
+
+
   .contact-content {
 	
 		width: 81%;
@@ -585,14 +666,58 @@ a:hover {
 }
 
 	#bio-pic {
-		width: 100%;
+		width: 70%;
 		height: 250px;
 		float: left;
 		margin-right: 17px;
-		margin-left: 10px;
+		margin-left: 20px;
+		border-style: solid;
+  		border-color: #eee;
+  		border-top-width: 50px;
+  		border-right-width: 50px;
+  		border-bottom-width: 50px;
+  		border-left-width: 50px;
+
 }
 
 	#bio-copy {
+
+}
+
+
+    .work {
+  	position: relative;
+  	width: 80%;
+  	height: 160px;
+  	float: left;
+  	margin-top: 10px;
+  	margin-right: 25px;
+  	margin-bottom: 100px;
+  	margin-left: 70px;
+}
+
+
+	.work img {
+  	width: 70%;
+  	height: 160px;
+  	border-style: solid;
+  	border-color: #eee;
+  	border-top-width: 40px;
+  	border-right-width: 40px;
+  	border-bottom-width: 40px;
+  	border-left-width: 40px;
+}
+
+	.work h3 {
+  	position: absolute;
+  	bottom: 10px;
+  	width: 70%;
+  	height: 30px;
+  	color: #fff;
+  	text-align: center;
+  	background: #4aaaa5;
+  	padding-top: 12px;
+  	margin-left: 40px;
 
 }
 
