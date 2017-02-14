@@ -120,6 +120,47 @@ a:hover {
 
 }
 
+.work {
+  position: relative;
+  width: 274px;
+  overflow: auto;
+  float: left;
+  margin: 20px 0 25px;
+}
+
+.work:nth-child(even) {
+  margin-right: 40px;
+}
+
+.work img {
+  width: 100%;
+  border: 0 none;
+  opacity: .8;
+}
+
+.work h3 {
+  position: absolute;
+  bottom: 20px;
+  margin-bottom: 0;
+  padding: 15px;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+  font-weight: 300;
+  background: #4aaaa5;
+  border-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
 .form {
 
 	color:#a6a6a6;
